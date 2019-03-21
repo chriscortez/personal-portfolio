@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
     margin: auto;
     text-align: center;
@@ -7,4 +11,12 @@ body {
     background-color: white;
    margin-top: -40px;
 
+}
+
+.pink {
+    background-color: lavenderblush;
+}
+
+.yellow {
+    background-color: yellow;
 }
