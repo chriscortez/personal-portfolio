@@ -5,11 +5,22 @@ html {
 body {
     margin: auto;
     text-align: center;
+    font-family: 'Questrial', sans-serif;
+}
+
+.navbar {
+    background-color: rgb(14, 160, 145);
+    border-bottom: 5px lightgray;
+}
+
+.navbar-brand {
+    font-size: 26px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
 }
 
 .jumbotron {
     background-color: white;
-   margin-top: -40px;
 
 }
 
